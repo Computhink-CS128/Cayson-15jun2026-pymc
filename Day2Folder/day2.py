@@ -20,7 +20,7 @@ print("CAYSON")
 
 ########################################################################
 # Task 3:
-for counter in range(10):
+for counter in range(0):
     print(counter)
 
 
