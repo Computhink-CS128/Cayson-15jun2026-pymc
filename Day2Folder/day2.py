@@ -12,7 +12,7 @@ print("hello from day2")
 name = "CAYSON"
 
 for letter in name:
-    print
+    print()
 
 
 ########################################################################
