@@ -11,6 +11,8 @@ print("hello from day2")
 # Task 2:
 name = "CAYSON"
 
+for letter in name:
+    print
 
 
 ########################################################################
