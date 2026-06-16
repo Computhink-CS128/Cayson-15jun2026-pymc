@@ -4,7 +4,7 @@ print("hello from day2")
 
 ########################################################################
 # Task 1:
-for counter in range(100):
+for counter in range(101):
     print("I will not sling mud at my friends")
 
 # 1. 
