@@ -10,8 +10,11 @@ for counter in range(101):
 for i in range(2,121,2):
     print(i)
 
-for i in range(-54,-101,-1)
-# 7,8,9,10, ..., 20
+for i in range(-54,-101,-1):
+    print(i)
+for i in range(7,21):
+    print(i)
+
 
 
 ########################################################################
