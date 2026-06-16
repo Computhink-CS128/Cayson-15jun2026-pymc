@@ -8,9 +8,9 @@ for counter in range(101):
     print("I will not sling mud at my friends")
 
 for i in range(2,121,2):
-    print()
+    print(i)
 
--54, -55, -56, ..., -100
+for i in range(-54,-101,-1)
 # 7,8,9,10, ..., 20
 
 
