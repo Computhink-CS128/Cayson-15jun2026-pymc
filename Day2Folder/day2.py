@@ -7,8 +7,10 @@ print("hello from day2")
 for counter in range(101):
     print("I will not sling mud at my friends")
 
- # 2,4,6,8,...,120
-# -54, -55, -56, ..., -100
+for i in range(2,121,2):
+    print()
+
+-54, -55, -56, ..., -100
 # 7,8,9,10, ..., 20
 
 
