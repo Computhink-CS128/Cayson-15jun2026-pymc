@@ -12,6 +12,7 @@ print(name +" " + title +" command you to "+ command)
 
 ########################################################################
 # Task 2:
+name = Cayson
 
 
 
