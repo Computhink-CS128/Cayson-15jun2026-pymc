@@ -7,8 +7,8 @@ print("hello from day2")
 for counter in range(100):
     print("I will not sling mud at my friends")
 
-
-
+# 1. 
+# 2.
 ########################################################################
 # Task 2:
 name = "CAYSON"
