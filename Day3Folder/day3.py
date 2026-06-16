@@ -13,7 +13,8 @@ print(name +" " + title +" command you to "+ command)
 ########################################################################
 # Task 2:
 name = Cayson
-
+num_pens = 500
+print
 
 
 
