@@ -71,7 +71,9 @@ num2 = random.randint(1,1000)
 studentAnswer = int(input("What is the sum of " + str(num1) +" and "+ str(num2)))
 answer = num1 + num2
 if answer == studentAnswer:
-    print(Correct)
+    print("Correct")
+else:
+    print
     
 
 
