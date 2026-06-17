@@ -58,7 +58,7 @@ print("hello from day3")
 import random
 for i in range(10):
     diceValue = random.randint(1,100)
-    print = diceValue
+    print(diceValue)
 
 
 
