@@ -73,7 +73,7 @@ answer = num1 + num2
 if answer == studentAnswer:
     print("Correct")
 else:
-    print
+    print("Very wrong)
     
 
 
