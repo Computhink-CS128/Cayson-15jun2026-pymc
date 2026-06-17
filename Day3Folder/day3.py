@@ -48,8 +48,12 @@ else:
 
 ########################################################################
 # Task 6:
-Password = password
-input("What is the Password?")
+Password = "password"
+guess = input("What is the Password?")
+if guess==Password:
+    print()
+
+
 
 
 ########################################################################
