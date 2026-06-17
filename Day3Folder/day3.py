@@ -62,7 +62,7 @@ else:
 # Task 7:
 import random
 for i in range():
-    
+    diceValue = random
 
 
 
