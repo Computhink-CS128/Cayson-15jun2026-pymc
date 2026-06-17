@@ -66,7 +66,7 @@ print("hello from day3")
 # Task 8:
 import random
 num1 = random.randint(1,1000)
-num2
+num2 = random.randint(1,1000)
 print()
 
 
