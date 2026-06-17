@@ -37,12 +37,12 @@ print ( name + " has " + str(num_pens) + " pens. ")
 
 ########################################################################
 # Task 5:
-A = input("what is person A's age?")
-B = input("What is person B's age?")
-if A>B:
-    print("Person A is older than B")
-else:
-    print("Person B is older than A")
+#A = input("what is person A's age?")
+#B = input("What is person B's age?")
+#if A>B:
+#    print("Person A is older than B")
+#else:
+#    print("Person B is older than A")
     
 
 
