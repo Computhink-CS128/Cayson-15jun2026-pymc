@@ -39,8 +39,8 @@ print("The total cost is " + str(num1 * num2))
 # Task 5:
 A = input("what is person A's age?")
 B = input("What is person B's age?")
-if age:
-    A
+if A>B:
+    
 
 
 ########################################################################
