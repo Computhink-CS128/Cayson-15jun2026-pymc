@@ -24,7 +24,7 @@ int(num1 = input("What is your number?"))
 int(num2 = input("What is your number?"))
 print(num1 + num2)
 
-
+num1 = int(input)
 
 
 ########################################################################
