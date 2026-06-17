@@ -67,7 +67,7 @@ print("hello from day3")
 import random
 num1 = random.randint(1,1000)
 num2 = random.randint(1,1000)
-print("What is the sum of " + str(num1) +"and"+ str(num2))
+print("What is the sum of " + str(num1) +" and "+ str(num2))
 
 
 
