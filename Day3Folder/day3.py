@@ -20,11 +20,11 @@ print ( name + " has " + str(num_pens) + " pens. ")
 
 ########################################################################
 # Task 3:
-int(num1 = input("What is your number?"))
-int(num2 = input("What is your number?"))
+num1 = int(input("What is your number?"))
+num2 = input("What is your number?"))
 print(num1 + num2)
 
-num1 = int(input("what is your number"))
+
 
 
 ########################################################################
