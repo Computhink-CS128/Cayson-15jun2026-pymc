@@ -48,7 +48,7 @@ else:
 
 ########################################################################
 # Task 6:
-Password = ""
+Password = "It's smth"
 guess = input("What is the Password?")
 if guess==Password:
     print("Access Granted")
