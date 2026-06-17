@@ -64,6 +64,10 @@ for i in range(0):
 
 ########################################################################
 # Task 8:
+import random
+for i in range(0):
+    diceValue = random.randint(1,100)
+    print(diceValue)
 
 
 
