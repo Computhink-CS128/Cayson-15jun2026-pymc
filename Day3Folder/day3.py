@@ -68,7 +68,7 @@ import random
 num1 = random.randint(1,1000)
 num2 = random.randint(1,1000)
 print("What is the sum of " + str(num1) +" and "+ str(num2))
-Answer = input(num1 + num2)
+Answer = input(str(num1 + num2)
 
 
 ########################################################################
