@@ -29,9 +29,9 @@ print(num1 + num2)
 
 ########################################################################
 # Task 4:
-num1 = int(input("What is your unit?"))
-num2 = int(input("How much does it cost?"))
-print("The total cost is " + str(num1 * num2))
+#num1 = int(input("What is your unit?"))
+#num2 = int(input("How much does it cost?"))
+#print("The total cost is " + str(num1 * num2))
 
 
 
