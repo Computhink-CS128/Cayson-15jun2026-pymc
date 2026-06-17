@@ -56,7 +56,7 @@ print ( name + " has " + str(num_pens) + " pens. ")
 ########################################################################
 # Task 7:
 import random
-for i in range():
+for i in range(10):
     diceValue = random.randint(1,100)
 
 
