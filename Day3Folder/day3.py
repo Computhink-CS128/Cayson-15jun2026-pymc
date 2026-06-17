@@ -42,7 +42,7 @@ B = input("What is person B's age?")
 if A>B:
     print("Person A is older")
 else:
-    prin
+    print("")
     
 
 
