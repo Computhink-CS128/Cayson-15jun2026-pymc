@@ -20,7 +20,8 @@ print ( name + " has " + str(num_pens) + " pens. ")
 
 ########################################################################
 # Task 3:
-num1 = input("What is your ")
+num1 = input("What is your number?")
+num2 = input("")
 
 
 
