@@ -66,14 +66,14 @@ print("hello from day3")
 # Task 8:
 import random
 num1 = random.randint(1,1000)
-num2 = random.randint(1,1000)
+num2 = random.randint(1,10)
 
 studentAnswer = int(input("What is the sum of " + str(num1) +" and "+ str(num2)))
 answer = num1 + num2
 if answer == studentAnswer:
     print("Correct")
 else:
-    print("Very wrong)
+    print("Very wrong")
     
 
 
