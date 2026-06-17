@@ -55,17 +55,17 @@ print("hello from day3")
 
 ########################################################################
 # Task 7:
-import random
-for i in range(0):
-    diceValue = random.randint(1,100)
-    print(diceValue)
+# import random
+# for i in range(0):
+#     diceValue = random.randint(1,100)
+#     print(diceValue)
 
 
 
 ########################################################################
 # Task 8:
 import random
-for i in range(0):
+for i in range(2):
     diceValue = random.randint(1,100)
     print(diceValue)
 
