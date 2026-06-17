@@ -29,8 +29,8 @@ print(num1 + num2)
 
 ########################################################################
 # Task 4:
-num1 = int(input("What is your unit"))
-num2 = int(input("How much does it cost"))
+num1 = int(input("What is your unit?"))
+num2 = int(input("How much does it cost?"))
 print(num1 * num2)
 
 
