@@ -38,7 +38,8 @@ print("The total cost is " + str(num1 * num2))
 ########################################################################
 # Task 5:
 print("what is person A's age?")
-print("What is person B's age")
+print("What is person B's age?")
+
 
 ########################################################################
 # Task 6:
