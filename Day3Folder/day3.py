@@ -12,9 +12,9 @@ print("hello from day3")
 
 ########################################################################
 # Task 2:
-# name = "Cayson"
-# num_pens = 500
-# print ( name + " has " + str(num_pens) + " pens. ")
+name = "Cayson"
+num_pens = 500
+print ( name + " has " + str(num_pens) + " pens. ")
 
 
 
