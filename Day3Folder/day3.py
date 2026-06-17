@@ -48,12 +48,7 @@ else:
 
 ########################################################################
 # Task 6:
-Password = "password"
-guess = input("What is the Password?")
-if guess==Password:
-    print("Access Granted")
-else:
-    print("Access Denied")
+#
 
 
 
