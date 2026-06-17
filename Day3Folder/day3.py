@@ -53,7 +53,7 @@ guess = input("What is the Password?")
 if guess==Password:
     print("Access Granted")
 else:
-    print("")
+    print("Access Denied")
 
 
 
